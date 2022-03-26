@@ -30,5 +30,6 @@ So we get used to objects, file handling, methods and scanner inputs.
 Vinzent Schmid, 20 years, Graz, 16.03.2022
 
 1. [exercise1.md](exercise1.md)
+2. [exercise2.md](exercise2.md)
 
 
