@@ -27,7 +27,13 @@ So we get used to objects, file handling, methods and scanner inputs.
 
 ## About me
 
-Vinzent Schmid, 20 years, Graz, 16.03.2022
+Author: Vinzent Schmid, 20 years, Graz
+
+Student: [FH Joanneum/Mobile Software Development](https://www.fh-joanneum.at/)
+
+GitHub: [github.com/VinzentSchmid](https://github.com/VinzentSchmid)
+
+## Exercises
 
 1. [exercise1.md](exercise1.md)
 2. [exercise2.md](exercise2.md)
