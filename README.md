@@ -37,5 +37,6 @@ GitHub: [github.com/VinzentSchmid](https://github.com/VinzentSchmid)
 
 1. [exercise1.md](exercise1.md)
 2. [exercise2.md](exercise2.md)
+3. [exercise3.md](exercise3.md)
 
 
