@@ -3,7 +3,7 @@
 
 ## 1. Set JAVA_HOME and path variables
 
-![set variables](variables.PNG)
+![set variables](img/variables.PNG)
 
 ## 2.Set up maven and java
 
@@ -12,18 +12,18 @@
 ## 4. Build main class in IntelliJ
 When I compiled the main class, a new target folder was created with subfolders like classes, generated-sources and maven-status
 
-![folders](folders.PNG)
+![folders](img/folders.PNG)
 
 ## 5. Checked if I see the result also in the console with:
 >java -cp target/classes/ at.fhj.msd.Main
 
 with this command I got the following results:
 
-![output](output.PNG)
+![output](img/output.PNG)
 
 ## 6. Last but not least I built the maven file in the console with:
 >mvn compile
 
-![compile](compile.PNG)
+![compile](img/compile.PNG)
 
 Unfortunately I had problems to compile the maven file. So after long research it worked with
