@@ -41,4 +41,17 @@ public class CalculatorTest {
     public void calcTestMultiplyActual(){
         Assertions.assertEquals(5.0*3.0, calc.multiply(5.0, 3.0));
     }
+    @Test
+    public void calcTestFactorial1(){
+        Assertions.assertEquals(120, calc.factorial(5.0));
+    }
+    @Test
+    public void calcTestFactorial2(){
+        Assertions.assertEquals(0, calc.factorial(-5.0));
+    }
+    @Test
+    public void calcTestFactorial3(){
+        Assertions.assertEquals(24.0, calc.factorial(4.0));
+    }
+
 }

@@ -14,4 +14,7 @@ public class Calculator {
     double multiply(double number1, double number2){
         return number1 * number2;
     }
+    double factorial(double number){
+        return 0;
+    }
 }
