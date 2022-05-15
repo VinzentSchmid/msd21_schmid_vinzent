@@ -10,5 +10,6 @@ public class Main {
         System.out.println(calculator.minus(number1, number2));
         System.out.println(calculator.divide(number1, number2));
         System.out.println(calculator.multiply(number1, number2));
+        System.out.println(calculator.factorial(number1));
     }
 }

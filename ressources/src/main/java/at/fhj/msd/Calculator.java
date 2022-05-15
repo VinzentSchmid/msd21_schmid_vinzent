@@ -15,6 +15,12 @@ public class Calculator {
         return number1 * number2;
     }
     double factorial(double number){
-        return 0;
+        int factorial = 1;
+        if(number < 0)
+            return 0;
+        for(int i = 1; i <= number; i++){
+            factorial *= i;
+        }
+        return factorial;
     }
 }
