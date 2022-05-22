@@ -40,4 +40,8 @@ GitHub: [github.com/VinzentSchmid](https://github.com/VinzentSchmid)
 3. [exercise3.md](exercise3.md)
 4. [exercise4.md](exercise4.md)
 
+## Templates
+
+1. [log4j2.xml.template](log.md)
+
 
