@@ -40,6 +40,7 @@ GitHub: [github.com/VinzentSchmid](https://github.com/VinzentSchmid)
 3. [exercise3.md](exercise3.md)
 4. [exercise4.md](exercise4.md)
 5. [exercise5.md](exercise5.md)
+6. [exercise6.md](exercise6.md)
 
 ## Templates
 
